@@ -1,2 +1,6 @@
 # krecenie-worem
 1337 kurwa plugin na krecenie worem
+
+## PULLREQWUESTY
+MILE WIDZIANE BO TEN PLUGIN NIE DZIALA 
+I FAJNIE BY BYLO GDYBY KTOS TO DOKONCZYL!! XD
