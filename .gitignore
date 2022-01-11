@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/media-encoder/build/
+/media-encoder/build/classes/java/main/
+/spigot-plugin/build/
+/spigot-plugin/build/classes/java/main/

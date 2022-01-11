@@ -1,0 +1,9 @@
+name: KrecenieSmiglem
+version: 1.0
+main: pl.memexurer.krecenie.KrecenieWoremPlugin
+commands:
+  setupmap:
+    description: Command for setting up prize wheel.
+    permission: krecenie.setupmap
+  playanimation:
+    description: Play animation.
